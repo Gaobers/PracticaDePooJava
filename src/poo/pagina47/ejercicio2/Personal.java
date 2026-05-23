@@ -1,4 +1,4 @@
-package Ejercicio5;
+package poo.pagina47.ejercicio2;
 
 public abstract class Personal {
 

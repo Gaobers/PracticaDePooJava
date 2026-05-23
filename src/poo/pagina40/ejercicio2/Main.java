@@ -1,4 +1,4 @@
-package Ejercicio2;
+package poo.pagina40.ejercicio2;
 
 import java.util.Scanner;
 

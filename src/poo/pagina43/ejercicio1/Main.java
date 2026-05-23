@@ -1,4 +1,4 @@
-package Ejercicio3;
+package poo.pagina43.ejercicio1;
 
 class IntegranteSeleccion {
     protected int id;

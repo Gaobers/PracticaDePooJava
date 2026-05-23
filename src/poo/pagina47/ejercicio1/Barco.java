@@ -1,4 +1,4 @@
-package Ejercicio4;
+package poo.pagina47.ejercicio1;
 
 public class Barco extends Vehiculo {
 

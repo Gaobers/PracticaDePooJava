@@ -1,4 +1,4 @@
-package Ejercicio1;
+package poo.pagina40.ejercicio1;
 
 class Animal{
     private String nombre;
